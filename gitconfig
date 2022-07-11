@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = carlosmechelli@gmail.com
+	name = Carlos Esbeltte
